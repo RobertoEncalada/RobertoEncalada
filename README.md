@@ -20,9 +20,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
+* Nombre: Roberto Encalada
 * Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
