@@ -23,9 +23,9 @@ proyectos y mis intereses.
 * Nombre: Roberto Encalada
 * Ocupación: Estudiante de la Escuela Superior Politécnica del Litoral (ESPOL)
 * Lugar de residencia: Guayaquil
-* Sitio web: [Mi sitio web] (https://robertoencalada.github.io/RobertoEncalada/)
+* Sitio web: [Mi sitio web] [https://robertoencalada.github.io/RobertoEncalada/]
 ## Proyectos
-* [Libro de Álgebra Lineal] (https://github.com/AngelGuale/libroAL)
+* [Libro de Álgebra Lineal] [https://github.com/AngelGuale/libroAL]
 ## Intereses
 * Desarrollo de Videojuegos
 * Estudio avanzado del Álgebra Lineal
