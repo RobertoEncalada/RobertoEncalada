@@ -26,6 +26,8 @@ proyectos y mis intereses.
 * Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 ## Proyectos
 * [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL), colaboración con Angel Guale
+* Currículum Vitae: [Currículum Vitae](https://robertoencalada.github.io/Curriculum/)
+* Landing Page para el equipo de Esports *T1*: [Landing Page](https://robertoencalada.github.io/Landing/)
 ## Intereses
 * Desarrollo de Videojuegos
 * Estudio avanzado del Álgebra Lineal
