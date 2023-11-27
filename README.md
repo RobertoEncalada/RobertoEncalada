@@ -24,11 +24,14 @@ proyectos y mis intereses.
 * Ocupación: Estudiante de la Escuela Superior Politécnica del Litoral (ESPOL)
 * Lugar de residencia: Guayaquil
 * Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
+## Habilidades
+* [Manejo de LaTeX]![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/3dd30910-6c3c-41b3-be82-8d6bba25881d)
 ## Proyectos
 * [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL), colaboración con Angel Guale
 * Currículum Vitae: [Currículum Vitae](https://robertoencalada.github.io/Curriculum/)
 * Landing Page para el equipo de Esports *T1*: [Landing Page](https://robertoencalada.github.io/Landing/)
 * Dashboard: [Dashboard del Clima](https://robertoencalada.github.io/Dashboard/)
+* Proyecto para Kioscos Touch: [Proyecto Ingeniería de Software 1.pdf](https://github.com/RobertoEncalada/RobertoEncalada/files/13480790/Proyecto.Ingenieria.de.Software.1.pdf)
 ## Intereses
 * Desarrollo de Videojuegos
 * Estudio avanzado del Álgebra Lineal
