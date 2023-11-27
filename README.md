@@ -25,7 +25,8 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil
 * Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 ## Habilidades
-* Manejo de LaTeX ![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/3dd30910-6c3c-41b3-be82-8d6bba25881d)
+* Manejo de LaTeX ![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e)
+
 ## Proyectos
 * [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL), colaboración con Angel Guale
 * Currículum Vitae: [Currículum Vitae](https://robertoencalada.github.io/Curriculum/)
