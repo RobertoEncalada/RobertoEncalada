@@ -26,7 +26,7 @@ proyectos y mis intereses.
 * Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 ## Habilidades
 * Manejo de LaTeX ![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e)
-
+* Manejo de MySQL ![R](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070)
 ## Proyectos
 * [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL), colaboración con Angel Guale
 * Currículum Vitae: [Currículum Vitae](https://robertoencalada.github.io/Curriculum/)
