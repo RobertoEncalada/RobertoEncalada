@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Estudiante de Espol en la carrera de Ingeniería en Computación
 </h3>
 <h3 align="center">
-Lugar de residencia: Guayaquil
+Lugar de residencia: Guayaquil <hr>
 Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 </h3>
 
