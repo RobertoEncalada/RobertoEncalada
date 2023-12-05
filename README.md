@@ -12,23 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Mi sitio personal
+# Información personal
+<h1 align="center"> Roberto Encalada </h1>
+<h3 align="center">
+  Estudiante de Espol en la carrera de Ingeniería en Computación
+</h3>
+<h3 align="center">
+Lugar de residencia: Guayaquil
+Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
+</h3>
+
+## Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-## Información personal
-* Nombre: Roberto Encalada
-* Ocupación: Estudiante de la Escuela Superior Politécnica del Litoral (ESPOL)
-* Lugar de residencia: Guayaquil
-* Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
+
+
 ## Habilidades
-| Herramientas | Logo |
-|-------------|--------|
-| Manejo de LaTeX | ![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e) |
-| Manejo de MySQL | ![R](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070) |
+
+   | Herramientas | Logo |
+   |--------------|------| 
+   | Manejo de LaTeX | [overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e) |
+   | Manejo de MySQL | [R](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070) |
+
 ## Proyectos
 
  | Nombre | Enlace | Colaboradores |
