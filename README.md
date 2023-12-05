@@ -42,7 +42,7 @@ proyectos y mis intereses.
 
  | Nombre | Enlace | Colaboradores |
  |--------|--------|---------------|
- | Libro de Álgebra Lineal | [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL) <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e" alt="c" width="40" height="40"/> | colaboración con Angel Guale |
+ | Libro de Álgebra Lineal | [Libro de Álgebra Lineal](https://github.com/AngelGuale/libroAL) <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e" alt="c" width="40" height="40"/> | Colaboración con Angel Guale |
  | Currículum Vitae: | [Currículum Vitae](https://robertoencalada.github.io/Curriculum/) <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/6427043b-71ee-437a-aeed-7ce52532d0bc" alt="c" width="40" height="40"/> | Ninguno |
  | Landing Page para el equipo de Esports *T1*: | [Landing Page](https://robertoencalada.github.io/Landing/) <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/6427043b-71ee-437a-aeed-7ce52532d0bc" alt="c" width="40" height="40"/> | Ninguno |
  | Dashboard: | [Dashboard del Clima](https://robertoencalada.github.io/Dashboard/) <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/6427043b-71ee-437a-aeed-7ce52532d0bc" alt="c" width="40" height="40"/> | Ninguno |
