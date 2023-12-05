@@ -25,7 +25,7 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil
 * Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 ## Habilidades
-| Herramientas | Imagen |
+| Herramientas | Logo |
 |-------------|--------|
 | Manejo de LaTeX | ![overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e) |
 | Manejo de MySQL | ![R](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070) |
