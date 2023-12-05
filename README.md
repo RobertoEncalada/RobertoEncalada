@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </h3>
 <h3 align="center">
 Lugar de residencia: Guayaquil <hr>
-Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 </h3>
+
+Sitio web: [Mi sitio web](https://robertoencalada.github.io/RobertoEncalada/)
 
 ## Mi sitio personal
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
