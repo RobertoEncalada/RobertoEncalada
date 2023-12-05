@@ -35,8 +35,8 @@ proyectos y mis intereses.
 
    | Herramientas | Logo |
    |--------------|------| 
-   | Manejo de LaTeX | [overleaf-square](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e) |
-   | Manejo de MySQL | [R](https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070) |
+   | Manejo de LaTeX | <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/40a53959-6a2b-4f6e-8cb2-905dc66c6e0e" alt="c" width="40" height="40"/> |
+   | Manejo de MySQL | <img src="https://github.com/RobertoEncalada/RobertoEncalada/assets/90653375/8079272f-a963-4ebf-b9b0-635c8bed4070" alt="c" width="90" height="50"/> |
 
 ## Proyectos
 
