@@ -6,7 +6,7 @@ This repository is special because its README.md appears on the GitHub profile.
 <h1 align="center">Roberto Encalada</h1>
 
 <h3 align="center">
-Computer Science Student | Web & Mobile Developer | AI and Computer Vision Enthusiast
+Computer Science Graduate | Master's Student in Computer Science | Web & Mobile Developer | AI and Computer Vision Enthusiast
 </h3>
 
 <p align="center">
@@ -17,18 +17,28 @@ Computer Science Student | Web & Mobile Developer | AI and Computer Vision Enthu
   <a href="https://robertoencalada.github.io/RobertoEncalada/">Personal Website</a> |
   <a href="https://robertoencalada.github.io/Curriculum/">Curriculum Vitae</a> |
   <a href="URL_LINKEDIN">LinkedIn</a> |
-  <a href="URL_GITHUB">GitHub</a>
+  <a href="https://github.com/RobertoEncalada">GitHub</a>
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science student at **Escuela Superior Politécnica del Litoral (ESPOL)** with experience in web and mobile application development, databases, technical documentation, and academic projects focused on applied technology.
+I am a **Computer Science graduate from Escuela Superior Politécnica del Litoral (ESPOL)** and currently a **Master's student in Computer Science**. I have experience in web and mobile application development, databases, technical documentation, and academic projects focused on applied technology.
 
-My current interests include **software development**, **artificial intelligence**, **computer vision**, **image processing**, and the use of intelligent systems to solve real-world technical problems.
+My main interests include **software development**, **artificial intelligence**, **computer vision**, **image processing**, and the use of intelligent systems to solve real-world technical problems.
 
-I have worked with technologies such as **Python, Java, JavaScript, TypeScript, Angular, Django, Flutter, Ionic, MySQL, SQL Server, Git, GitHub, Unity, C#**, and **LaTeX**.
+I have worked with technologies such as **Python, Java, JavaScript, TypeScript, Angular, Django, Flutter, Ionic, MySQL, SQL Server, PostgreSQL, Git, GitHub, Unity, C#**, and **LaTeX**.
+
+---
+
+## Education
+
+| Degree | Institution | Period |
+|---|---|---|
+| **Master's Degree in Computer Science** | Escuela Superior Politécnica del Litoral, ESPOL | 2026 -- Present |
+| **Computer Science Engineering Degree** | Escuela Superior Politécnica del Litoral, ESPOL | 2021 -- 2025 |
+| **High School Diploma** | Unidad Educativa Particular Julio María Matovelle | 2006 -- 2019 |
 
 ---
 
@@ -66,6 +76,15 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
+### Additional Tools and Areas
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Image_Processing-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical_Documentation-4B5563?style=for-the-badge" />
+</p>
+
 ---
 
 ## Featured Work
@@ -75,7 +94,7 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | Project | Description | Link |
 |---|---|---|
 | **Accepted Conference Paper** | Scientific article derived from a research project on artificial intelligence and computer vision applied to automated structural inspection. The article has been accepted and is currently pending official publication in the conference proceedings. | [Evidence / Preprint](URL_ARTICLE_OR_EVIDENCE) |
-| **2D--3D Crack Detection Thesis Project** | Computer vision and deep learning system for detecting and quantifying cracks in lime mortars. The project involves image processing, data analysis, model comparison, and technical documentation. | [Code](URL_THESIS_CODE) / [Document](URL_THESIS_DOCUMENT) |
+| **2D--3D Crack Detection Thesis Project** | Computer vision and deep learning system for detecting and quantifying cracks in lime mortars. The project involved image processing, data analysis, model comparison, and technical documentation. | [Code](URL_THESIS_CODE) / [Document](URL_THESIS_DOCUMENT) |
 | **Linear Algebra Book** | Collaborative academic project focused on the development and formatting of a Linear Algebra book using LaTeX. | [Repository](https://github.com/AngelGuale/libroAL) |
 
 ### Web and Mobile Projects
@@ -86,17 +105,18 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | **Curriculum Vitae** | Online version of my professional CV. | HTML, CSS, GitHub Pages | [View CV](https://robertoencalada.github.io/Curriculum/) |
 | **T1 Esports Landing Page** | Landing page inspired by the esports team T1. | HTML, CSS, JavaScript | [View Project](https://robertoencalada.github.io/Landing/) |
 | **Weather Dashboard** | Web dashboard for displaying weather-related information. | HTML, CSS, JavaScript | [View Dashboard](https://robertoencalada.github.io/Dashboard/) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on a kiosk-based interactive system. | Documentation, Software Design | [View Document](https://github.com/RobertoEncalada/RobertoEncalada/files/13480790/Proyecto.Ingenieria.de.Software.1.pdf) |
+| **Touch Kiosk Software Project** | Academic software engineering project focused on a kiosk-based interactive system. | Software Design, Documentation | [View Document](https://github.com/RobertoEncalada/RobertoEncalada/files/13480790/Proyecto.Ingenieria.de.Software.1.pdf) |
 
 ---
 
 ## Experience Highlights
 
-- Development of web applications using **Angular, HTML, CSS, TypeScript, Django**, and relational databases.
-- Development of mobile and hybrid applications using **Flutter, Dart, Ionic, Unity**, and **C#**.
-- Use of **Git** and **GitHub** for version control, code organization, and collaborative development.
-- Technical and academic documentation using **LaTeX**.
-- Participation in academic and professional projects involving software development, databases, and applied computing.
+- Developed web applications using **Angular, HTML, CSS, TypeScript, Django**, and relational databases.
+- Built mobile and hybrid applications using **Flutter, Dart, Ionic, Unity**, and **C#**.
+- Used **Git** and **GitHub** for version control, code organization, and collaborative development.
+- Created technical and academic documentation using **LaTeX**.
+- Participated in academic and professional projects involving software development, databases, and applied computing.
+- Worked on computer vision and artificial intelligence projects focused on structural inspection and image-based analysis.
 
 ---
 
@@ -113,6 +133,18 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 
 ---
 
+## GitHub Profile
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertoEncalada&show_icons=true&theme=default" alt="Roberto Encalada GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoEncalada&layout=compact&theme=default" alt="Most used languages" />
+</p>
+
+---
+
 ## Contact
 
 <p>
@@ -125,6 +157,6 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 
 <p>
   <a href="URL_LINKEDIN">LinkedIn</a> |
-  <a href="URL_PORTFOLIO">Portfolio</a> |
-  <a href="URL_GITHUB">GitHub</a>
+  <a href="https://robertoencalada.github.io/RobertoEncalada/">Portfolio</a> |
+  <a href="https://github.com/RobertoEncalada">GitHub</a>
 </p>
