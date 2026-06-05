@@ -25,25 +25,13 @@ I have experience in **web and mobile application development**, **databases**, 
 
 I have worked with technologies such as **Python, Java, JavaScript, TypeScript, Angular, Django, Flutter, Ionic, MySQL, SQL Server, PostgreSQL, Git, GitHub, Unity, C#**, and **LaTeX**.
 
----
-
-## Featured Documents
-
-| Document | Description | Link |
-|---|---|---|
-| **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/CV.pdf) |
-| **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Final_paper_confirmation.pdf) |
-| **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [Software Project PDF](./assets/docs/Software_Project_Kiosk.pdf)<br>[Kiosk Touch PDF](./assets/docs/T2KioscoTouch.pdf) |
-
----
-
 ## Selected Projects and Repositories
 
 ### Research, AI, and Computer Vision
 
 | Project | Description | Technologies / Areas | Link |
 |---|---|---|---|
+| **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
 | **Accepted Conference Paper** | Scientific article derived from a research project on artificial intelligence and computer vision applied to automated structural inspection. The article has been accepted and is currently pending official publication. | AI, Computer Vision, Structural Inspection | [Evidence](./assets/docs/Final_paper_confirmation.pdf) |
 | **2D--3D Crack Detection AI** | Thesis project focused on crack detection and quantification in lime mortars using intelligent 2D--3D methods. | Python, Computer Vision, Deep Learning, Image Processing | [Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
 | **AI Project** | Academic or collaborative project related to artificial intelligence development. | AI, Software Development | [Repository](https://github.com/AndresBorbor/proyecto-ia) |
@@ -54,9 +42,9 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | Project | Description | Technologies / Areas | Link |
 |---|---|---|---|
 | **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | Markdown, GitHub Pages, Documentation | [Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
-| **BubbleTouch** | Application project related to touch-based or interactive interfaces. | Mobile / Interactive Systems | [Repository](https://github.com/RobertoEncalada/BubbleTouch) |
+| **BubbleTouch** | Application project related to touch-based or interactive interfaces. | image processing / Interactive Systems | [Repository](https://github.com/RobertoEncalada/BubbleTouch) |
 | **Novagym** | Project related to gym or fitness management. | Web / Backend Development | [Repository](https://github.com/lurapozo/novagym) |
-| **Novagym Flutter App** | Mobile version of the Novagym project. | Flutter, Mobile Development | [Repository 1](https://github.com/JordyM97/novagym_flutter_app)<br>[Repository 2](https://github.com/lurapozo/novagym_flutter_app) |
+| **Novagym Flutter App** | Mobile version of the Novagym project. | Flutter, Mobile Development | [Repository](https://github.com/lurapozo/novagym_flutter_app) |
 | **Galapagos App** | Full-stack application with separate frontend and backend repositories. | Frontend, Backend, Web Development | [Frontend](https://github.com/katumbac/galapagosApp-front)<br>[Backend](https://github.com/rochardp12/galapagosApp-back) |
 
 ### Touch Kiosk Projects
