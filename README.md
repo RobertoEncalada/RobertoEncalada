@@ -186,6 +186,8 @@ You can explore my technical work, academic projects, and software development r
 | **2D--3D Crack Detection AI** | Computer vision and AI project for crack detection and quantification in lime mortars. | [View Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
 | **Linear Algebra Book** | Collaborative academic project developed with LaTeX. | [View Repository](https://github.com/AngelGuale/libroAL) |
 | **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | [View Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
+
+
 ---
 
 ## Contact
