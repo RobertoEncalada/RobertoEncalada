@@ -48,8 +48,6 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | **2D--3D Crack Detection AI** | Thesis project focused on crack detection and quantification in lime mortars using intelligent 2D--3D methods. | Python, Computer Vision, Deep Learning, Image Processing | [Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
 | **AI Project** | Academic or collaborative project related to artificial intelligence development. | AI, Software Development | [Repository](https://github.com/AndresBorbor/proyecto-ia) |
 | **AI Backend** | Backend repository associated with an artificial intelligence project. | Backend, AI, API Development | [Repository](https://github.com/joemcara/back_ia) |
-| **Stereo Thermal** | Project related to stereo and thermal image processing. | Computer Vision, Thermal Imaging, Image Processing | [Repository](https://github.com/Nick451109/StereoThermal) |
-| **Gaussian Splatting** | Repository related to 3D representation and visualization techniques. | 3D Vision, Computer Graphics | [Repository](https://github.com/Nick451109/gaussian-splatting) |
 
 ### Web, Mobile, and Full-Stack Development
 
@@ -57,8 +55,6 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 |---|---|---|---|
 | **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | Markdown, GitHub Pages, Documentation | [Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
 | **BubbleTouch** | Application project related to touch-based or interactive interfaces. | Mobile / Interactive Systems | [Repository](https://github.com/RobertoEncalada/BubbleTouch) |
-| **Hangaroa Sports** | Web or mobile project associated with sports management or related functionality. | Web / Mobile Development | [Repository](https://github.com/df-chanargo/hangaroa_sports) |
-| **Kitu Díaz Mobile App** | Mobile application project. | Mobile Development | [Repository](https://github.com/ricdasal/kitu-diaz-mobile-app) |
 | **Novagym** | Project related to gym or fitness management. | Web / Backend Development | [Repository](https://github.com/lurapozo/novagym) |
 | **Novagym Flutter App** | Mobile version of the Novagym project. | Flutter, Mobile Development | [Repository 1](https://github.com/JordyM97/novagym_flutter_app)<br>[Repository 2](https://github.com/lurapozo/novagym_flutter_app) |
 | **Galapagos App** | Full-stack application with separate frontend and backend repositories. | Frontend, Backend, Web Development | [Frontend](https://github.com/katumbac/galapagosApp-front)<br>[Backend](https://github.com/rochardp12/galapagosApp-back) |
@@ -68,10 +64,8 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | Project | Description | Technologies / Areas | Link |
 |---|---|---|---|
 | **Touch Kiosk Software Project** | Academic software engineering project focused on the design and development of an interactive kiosk-based system. | Software Engineering, Documentation | [Document](./assets/docs/Software_Project_Kiosk.pdf) |
-| **T2 Kiosk Touch Frontend** | Frontend repository for the Touch Kiosk project. | Frontend Development | [Repository](https://github.com/RobertoEncalada/T2-Frontend-Kiosco-Touch) |
-| **T2 Kiosk Touch Backend** | Backend repository for the Touch Kiosk project. | Backend Development | [Repository](https://github.com/RobertoEncalada/T2-Backend-Kiosco-Touch) |
-| **Kiosk Touch Frontend** | Additional frontend implementation for the Kiosk Touch project. | Frontend Development | [Repository 1](https://github.com/RobertoEncalada/Frontend-KioscoTouch)<br>[Repository 2](https://github.com/JeffErasLindao/Frontend-KioscoTouch) |
-| **Kiosk Touch Backend** | Additional backend implementation for the Kiosk Touch project. | Backend Development | [Repository 1](https://github.com/RobertoEncalada/Backend-KioscoTouch)<br>[Repository 2](https://github.com/JeffErasLindao/Backend-KioscoTouch) |
+| **Kiosk Touch Frontend** | Frontend repository for the Touch Kiosk project. | Frontend Development | [Repository](https://github.com/RobertoEncalada/T2-Frontend-Kiosco-Touch) |
+| **Kiosk Touch Backend** | Backend repository for the Touch Kiosk project. | Backend Development | [Repository](https://github.com/RobertoEncalada/T2-Backend-Kiosco-Touch) |
 
 ### Academic and Documentation Projects
 
