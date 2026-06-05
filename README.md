@@ -169,16 +169,23 @@ Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and re
 
 ---
 
-## GitHub Activity
+## GitHub and Repositories
+
+You can explore my technical work, academic projects, and software development repositories on GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertoEncalada&show_icons=true&theme=default" alt="Roberto Encalada GitHub stats" />
+  <a href="https://github.com/RobertoEncalada">
+    <strong>View GitHub Profile</strong>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoEncalada&layout=compact&theme=default" alt="Most used languages" />
-</p>
+### Selected Repositories
 
+| Repository | Description | Link |
+|---|---|---|
+| **2D--3D Crack Detection AI** | Computer vision and AI project for crack detection and quantification in lime mortars. | [View Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
+| **Linear Algebra Book** | Collaborative academic project developed with LaTeX. | [View Repository](https://github.com/AngelGuale/libroAL) |
+| **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | [View Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
 ---
 
 ## Contact
