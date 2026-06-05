@@ -11,7 +11,7 @@ Computer Science Graduate | Master's Student in Computer Science | Web & Mobile 
 <p align="center">
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
-  <a href="URL_LINKEDIN">LinkedIn</a> |
+  <a href="www.linkedin.com/in/roberto-encalada-ortiz-378689222">LinkedIn</a> |
   <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
 
@@ -33,8 +33,8 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 |---|---|---|
 | **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/CV.pdf) |
 | **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Final_paper_confirmation.pdf) |
-| **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Thesis_Project.pdf) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [View PDF](./assets/docs/Software_Project_Kiosk.pdf) |
+| **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
+| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [View PDF](./assets/docs/Software_Project_Kiosk.pdf) | [View PDF](./assets/docs/T2KioscoTouch.pdf)
 
 ---
 
@@ -69,9 +69,9 @@ This project focused on the development of an image-based system for structural 
 - Technical documentation
 
 **Links:**  
-[Project Document](./assets/docs/Thesis_Project.pdf) |
-[Code Repository](URL_THESIS_CODE) |
-[Presentation](URL_THESIS_PRESENTATION)
+[Project Document](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
+[Code Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
+[Presentation](https://youtu.be/6fOC9HBokA0)
 
 ---
 
@@ -190,6 +190,6 @@ Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and re
 <p>
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
-  <a href="URL_LINKEDIN">LinkedIn</a> |
+  <a href="www.linkedin.com/in/roberto-encalada-ortiz-378689222">LinkedIn</a> |
   <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
