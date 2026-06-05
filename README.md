@@ -12,7 +12,7 @@ Computer Science Graduate | Master's Student in Computer Science | Web & Mobile 
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
   <a href="URL_LINKEDIN">LinkedIn</a> |
-  <a href="./assets/docs/Roberto_Encalada_CV.pdf">Curriculum Vitae</a>
+  <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
 
 ---
@@ -31,8 +31,8 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 
 | Document | Description | Link |
 |---|---|---|
-| **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/Roberto_Encalada_CV.pdf) |
-| **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Accepted_Paper_Evidence.pdf) |
+| **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/CV.pdf) |
+| **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Final_paper_confirmation.pdf) |
 | **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Thesis_Project.pdf) |
 | **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [View PDF](./assets/docs/Software_Project_Kiosk.pdf) |
 
@@ -47,7 +47,7 @@ Scientific article derived from a research project on **artificial intelligence 
 The article has been **accepted for conference** and is currently pending official publication or indexing in the conference proceedings.
 
 **Related document:**  
-[Accepted Paper Evidence](./assets/docs/Accepted_Paper_Evidence.pdf)
+[Accepted Paper Evidence](./assets/docs/Final_paper_confirmation.pdf)
 
 ---
 
@@ -191,5 +191,5 @@ Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and re
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
   <a href="URL_LINKEDIN">LinkedIn</a> |
-  <a href="./assets/docs/Roberto_Encalada_CV.pdf">Curriculum Vitae</a>
+  <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
