@@ -34,7 +34,7 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/CV.pdf) |
 | **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Final_paper_confirmation.pdf) |
 | **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [Software Project PDF](./assets/docs/Software_Project_Kiosk.pdf)<br>[Kiosk Touch PDF](./assets/docs/T2KioscoTouch.pdf) |
+| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [Software Project PDF](./assets/docs/Software_Project_Kiosk.pdf) / [Kiosk Touch PDF](./assets/docs/T2KioscoTouch.pdf) |
 ---
 
 ## Featured Work
