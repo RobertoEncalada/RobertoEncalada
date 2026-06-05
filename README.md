@@ -34,60 +34,54 @@ I have worked with technologies such as **Python, Java, JavaScript, TypeScript, 
 | **Curriculum Vitae** | Updated professional CV in PDF format. | [View PDF](./assets/docs/CV.pdf) |
 | **Accepted Conference Paper Evidence** | Evidence or related document for a scientific article accepted for conference and pending official publication. | [View PDF](./assets/docs/Final_paper_confirmation.pdf) |
 | **Thesis Project Document** | Document related to the 2D--3D crack detection and quantification project. | [View PDF](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [Software Project PDF](./assets/docs/Software_Project_Kiosk.pdf) / [Kiosk Touch PDF](./assets/docs/T2KioscoTouch.pdf) |
+| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | [Software Project PDF](./assets/docs/Software_Project_Kiosk.pdf)<br>[Kiosk Touch PDF](./assets/docs/T2KioscoTouch.pdf) |
 
 ---
 
-## Featured Work
+## Selected Projects and Repositories
 
-### Accepted Conference Paper
+### Research, AI, and Computer Vision
 
-Scientific article derived from a research project on **artificial intelligence and computer vision applied to automated structural inspection**.
-
-The article has been **accepted for conference** and is currently pending official publication or indexing in the conference proceedings.
-
-**Related document:**  
-[Accepted Paper Evidence](./assets/docs/Final_paper_confirmation.pdf)
-
----
-
-### 2D--3D Crack Detection Thesis Project
-
-Project titled:
-
-**“Comparison of Intelligent 2D--3D Methods for Crack Detection and Quantification in Lime Mortars”**
-
-This project focused on the development of an image-based system for structural inspection using **computer vision**, **image processing**, **deep learning**, and **data analysis**. The work included preprocessing, detection, quantification, and comparison of 2D and 3D methods.
-
-**Main areas:**
-
-- Computer vision
-- Image processing
-- Deep learning
-- Structural inspection
-- Data analysis
-- Technical documentation
-
-**Links:**  
-[Project Document](./assets/docs/Informe_Materia_Integradora_NickArevalo_RobertoEncalada_PAO2_2025-signed-signed.pdf) |
-[Code Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
-[Presentation](https://youtu.be/6fOC9HBokA0)
-
----
-
-### Web and Mobile Development Projects
-
-Experience developing web, mobile, and hybrid applications using modern frontend, backend, and software development tools.
-
-Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and relational databases.
-
-| Project | Description | Technologies | Link |
+| Project | Description | Technologies / Areas | Link |
 |---|---|---|---|
-| **Curriculum Vitae Web** | Web version of my professional CV. | HTML, CSS, GitHub Pages | [View Project](https://robertoencalada.github.io/Curriculum/) |
-| **T1 Esports Landing Page** | Landing page inspired by the esports team T1. | HTML, CSS, JavaScript | [View Project](https://robertoencalada.github.io/Landing/) |
-| **Weather Dashboard** | Web dashboard for displaying weather-related information. | HTML, CSS, JavaScript | [View Dashboard](https://robertoencalada.github.io/Dashboard/) |
+| **Accepted Conference Paper** | Scientific article derived from a research project on artificial intelligence and computer vision applied to automated structural inspection. The article has been accepted and is currently pending official publication. | AI, Computer Vision, Structural Inspection | [Evidence](./assets/docs/Final_paper_confirmation.pdf) |
+| **2D--3D Crack Detection AI** | Thesis project focused on crack detection and quantification in lime mortars using intelligent 2D--3D methods. | Python, Computer Vision, Deep Learning, Image Processing | [Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
+| **AI Project** | Academic or collaborative project related to artificial intelligence development. | AI, Software Development | [Repository](https://github.com/AndresBorbor/proyecto-ia) |
+| **AI Backend** | Backend repository associated with an artificial intelligence project. | Backend, AI, API Development | [Repository](https://github.com/joemcara/back_ia) |
+| **Stereo Thermal** | Project related to stereo and thermal image processing. | Computer Vision, Thermal Imaging, Image Processing | [Repository](https://github.com/Nick451109/StereoThermal) |
+| **Gaussian Splatting** | Repository related to 3D representation and visualization techniques. | 3D Vision, Computer Graphics | [Repository](https://github.com/Nick451109/gaussian-splatting) |
+
+### Web, Mobile, and Full-Stack Development
+
+| Project | Description | Technologies / Areas | Link |
+|---|---|---|---|
+| **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | Markdown, GitHub Pages, Documentation | [Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
+| **BubbleTouch** | Application project related to touch-based or interactive interfaces. | Mobile / Interactive Systems | [Repository](https://github.com/RobertoEncalada/BubbleTouch) |
+| **Hangaroa Sports** | Web or mobile project associated with sports management or related functionality. | Web / Mobile Development | [Repository](https://github.com/df-chanargo/hangaroa_sports) |
+| **Kitu Díaz Mobile App** | Mobile application project. | Mobile Development | [Repository](https://github.com/ricdasal/kitu-diaz-mobile-app) |
+| **Novagym** | Project related to gym or fitness management. | Web / Backend Development | [Repository](https://github.com/lurapozo/novagym) |
+| **Novagym Flutter App** | Mobile version of the Novagym project. | Flutter, Mobile Development | [Repository 1](https://github.com/JordyM97/novagym_flutter_app)<br>[Repository 2](https://github.com/lurapozo/novagym_flutter_app) |
+| **Galapagos App** | Full-stack application with separate frontend and backend repositories. | Frontend, Backend, Web Development | [Frontend](https://github.com/katumbac/galapagosApp-front)<br>[Backend](https://github.com/rochardp12/galapagosApp-back) |
+
+### Touch Kiosk Projects
+
+| Project | Description | Technologies / Areas | Link |
+|---|---|---|---|
+| **Touch Kiosk Software Project** | Academic software engineering project focused on the design and development of an interactive kiosk-based system. | Software Engineering, Documentation | [Document](./assets/docs/Software_Project_Kiosk.pdf) |
+| **T2 Kiosk Touch Frontend** | Frontend repository for the Touch Kiosk project. | Frontend Development | [Repository](https://github.com/RobertoEncalada/T2-Frontend-Kiosco-Touch) |
+| **T2 Kiosk Touch Backend** | Backend repository for the Touch Kiosk project. | Backend Development | [Repository](https://github.com/RobertoEncalada/T2-Backend-Kiosco-Touch) |
+| **Kiosk Touch Frontend** | Additional frontend implementation for the Kiosk Touch project. | Frontend Development | [Repository 1](https://github.com/RobertoEncalada/Frontend-KioscoTouch)<br>[Repository 2](https://github.com/JeffErasLindao/Frontend-KioscoTouch) |
+| **Kiosk Touch Backend** | Additional backend implementation for the Kiosk Touch project. | Backend Development | [Repository 1](https://github.com/RobertoEncalada/Backend-KioscoTouch)<br>[Repository 2](https://github.com/JeffErasLindao/Backend-KioscoTouch) |
+
+### Academic and Documentation Projects
+
+| Project | Description | Technologies / Areas | Link |
+|---|---|---|---|
 | **Linear Algebra Book** | Collaborative academic project focused on the development and formatting of a Linear Algebra book using LaTeX. | LaTeX, Academic Writing | [Repository](https://github.com/AngelGuale/libroAL) |
-| **Touch Kiosk Software Project** | Academic software engineering project focused on an interactive kiosk-based system. | Software Design, Documentation | [View PDF](./assets/docs/Software_Project_Kiosk.pdf) |
+| **Acceptance Testing** | Repository related to software testing practices and acceptance testing. | Software Testing, QA | [Repository](https://github.com/RobertoEncalada/Acceptance_Testing) |
+| **Coding Standards Workshop** | Repository focused on coding standards and software development practices. | Software Engineering, Best Practices | [Repository](https://github.com/RobertoEncalada/Workshop-CodingStandards) |
+| **Dart Language Project** | Academic project developed with Dart. | Dart, Programming Languages | [Repository](https://github.com/rochardp12/ProyectoLP-Dart) |
+| **Lexical Analyzer in Dart** | Repository related to lexical analysis and programming language concepts. | Dart, Lexical Analysis, Compilers | [Repository](https://github.com/rochardp12/Analizador-Lexico-Dart) |
 
 ---
 
@@ -132,6 +126,7 @@ Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and re
   <img src="https://img.shields.io/badge/Image_Processing-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical_Documentation-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Testing-2563EB?style=for-the-badge" />
 </p>
 
 ---
@@ -146,48 +141,14 @@ Technologies used include **Angular, Django, Flutter, Ionic, Unity, C#**, and re
 
 ---
 
-## Experience Highlights
+## Professional Focus
 
-- Development of web applications using **Angular, HTML, CSS, TypeScript, Django**, and relational databases.
-- Development of mobile and hybrid applications using **Flutter, Dart, Ionic, Unity**, and **C#**.
-- Use of **Git** and **GitHub** for version control, code organization, and collaborative development.
-- Technical and academic documentation using **LaTeX**.
-- Participation in academic and professional projects involving software development, databases, and applied computing.
-- Experience in computer vision and artificial intelligence projects focused on structural inspection and image-based analysis.
-
----
-
-## Areas of Interest
-
-- Web and mobile application development
-- Artificial intelligence
-- Computer vision
-- Image processing
-- Software engineering
-- Technical documentation
-- Video game development
-- Digital art and animation
-
----
-
-## GitHub and Repositories
-
-You can explore my technical work, academic projects, and software development repositories on GitHub.
-
-<p align="center">
-  <a href="https://github.com/RobertoEncalada">
-    <strong>View GitHub Profile</strong>
-  </a>
-</p>
-
-### Selected Repositories
-
-| Repository | Description | Link |
-|---|---|---|
-| **2D--3D Crack Detection AI** | Computer vision and AI project for crack detection and quantification in lime mortars. | [View Repository](https://github.com/hadesmechanics/2D_3D_crack_AI) |
-| **Linear Algebra Book** | Collaborative academic project developed with LaTeX. | [View Repository](https://github.com/AngelGuale/libroAL) |
-| **Portfolio Website** | Personal portfolio deployed with GitHub Pages. | [View Repository](https://github.com/RobertoEncalada/RobertoEncalada) |
-
+- Development of web, mobile, and hybrid applications.
+- Design and implementation of frontend and backend components.
+- Technical and academic documentation using LaTeX.
+- Version control and collaborative development using Git and GitHub.
+- Applied computing projects involving databases, software engineering, and testing.
+- Computer vision and artificial intelligence projects focused on structural inspection and image-based analysis.
 
 ---
 
@@ -199,6 +160,6 @@ You can explore my technical work, academic projects, and software development r
 <p>
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
-  <a href="www.linkedin.com/in/roberto-encalada-ortiz-378689222">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/roberto-encalada-ortiz-378689222/">LinkedIn</a> |
   <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
