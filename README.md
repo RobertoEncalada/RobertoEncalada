@@ -11,7 +11,7 @@ Computer Science Graduate | Master's Student in Computer Science | Web & Mobile 
 <p align="center">
   <a href="mailto:robertcarlos530@gmail.com">Email</a> |
   <a href="https://github.com/RobertoEncalada">GitHub</a> |
-  <a href="www.linkedin.com/in/roberto-encalada-ortiz-378689222">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/roberto-encalada-ortiz-378689222/">LinkedIn</a> |
   <a href="./assets/docs/CV.pdf">Curriculum Vitae</a>
 </p>
 
